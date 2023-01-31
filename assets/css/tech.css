@@ -1,0 +1,62 @@
+* {margin: 0% auto;}
+.zenbu {display: flex;flex-direction: column;background-color: rgb(233, 234, 235);}
+
+.tech {display: flex; padding: 48px 15px 48px 15px;flex-wrap: wrap;}
+.java {display:flex; border-radius: 7px;padding: 1.2% 1.2% 1.2% 1.2%;}
+.java0 {height:320px;width: 300px;
+border-radius: 10px; display: flex;flex-wrap: wrap;
+background-color: rgb(255, 255, 255);}
+.java1{height: 60%;width: 100%;}
+
+img {object-fit: cover;overflow: hidden;width: 100%;height: 100%;}
+
+.java22 { height: 100%; width: 100%;
+  display:flex;
+  flex-direction: column; 
+}
+
+.java222 {display: flex; justify-content: space-between ;}
+.java21 {
+    align-content: space-around;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 5px 5px 0;
+}
+.java221 { margin: 0 20px ;}
+.java222 { margin: 20px 20px; text-decoration: none;}
+.timkiem { height: 40px;width: 100%;position: relative;
+display: flex; }
+.timkiem1 { width: 50%;border-radius: 6px;left: 20px;position: absolute;height: 30px;}
+.timkiemicon { position: absolute;height:35px;width: 35px;left :550px;background-color: #66BB6A; color: aliceblue; border: 1px;border-radius: 6px;}
+.menu {  position: relative;
+  background-color:#30598C ;
+  height: 62px;width: 100%;display: flex;
+  justify-content: center;align-items: center;
+  font-size: 16px;
+  text-align: center;
+}
+.menu2 { text-decoration: none; color: aliceblue;3}
+.logo { 
+margin-left: 30px;
+object-fit: cover;height: 37px; width: 100px;
+overflow: hidden;
+}
+.watas { color: aliceblue;}
+.khoahoc { margin-left: 150px;}
+.giohang {color: aliceblue;height: 60px;width: 20px;align-items: center;display: flex;font-size: 20px;}
+
+.profile { height: 60px;width: 60px;display: flex;align-items: center;justify-content: center;}
+.avatar { width: 30px;height: 30px;object-fit: cover; border-radius: 50%;}
+.footer { height: 450px;width: 100%; background-color: #30598c; display: flex;flex-direction: row;
+text-align: left; justify-content: center; padding-top: 20px; 
+}
+.footer11 { height: 450px;width: 25%; list-style: none;color: aliceblue;text-decoration: none;padding-top: 20px;}
+.footer1 { list-style: none;text-decoration: none; font-size: 18px;line-height: 30px;}
+.footericon { list-style: none; display: flex;text-align: left;}
+.footer1 li a { color: aliceblue; text-decoration: none;}
+.messenger { position: fixed;bottom: 30px;right: 20px; height: 60px;width: 60px;display: flex;font-size: 60px;color: blue;}
+
+
+
+
+
